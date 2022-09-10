@@ -1,0 +1,8 @@
+docker compose up
+if you are using window install docker desktop
+install ubuntu
+install mysql workbench
+instal wsl
+set the enviroment variable
+then run docker compose up on php11 folder 
+if you are working on xampp then add $dbname docker_database $username to root $password to null $servername to localhost and remove port 3306
